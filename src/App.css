@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  margin-bottom: 50px;
+}
+
+.sessions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.each_session {
+  display: flex;
+}
+
+.headers {
+  display: flex;
+}
+
+p {
+  margin-right: 10px;
+ }
+
+
+.start, .end{
+  width: 200px;
+}
+
+label {
+  margin-right: 20px;
+}
+
+.duration {
+  width: 100px;
+  /* border: 1px solid grey ; */
+  /* padding-left: 10px; */
+}
+
+#dur {
+  padding-left: 10px;
+}
+
+.btn {
+  height: 20px;
+  margin-top: 15px;
+}
+
+
+
+
+
+
